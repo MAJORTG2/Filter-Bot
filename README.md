@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/97418751/202124190-51e972e8-d4f5-4604-890f-1b7c1a17073b.jpg" 
+</p>
+<h1 align="center">
+  <b>ᴋᴜᴛᴛᴜ ʙᴏᴛ 🤖 | Made By Goutham S E R |</b>
+</h1>
+
+
+
 
 ## Features
 
@@ -120,8 +129,20 @@ python3 bot.py
  = Thank To Professor-Bot & KD Bots
  - Thanks To Me For Wasting Time On This Repo Instead Of Studying :)
 
+### Note
+
+[Note To A So Called Dev](https://telegram.dog/subin_works/203): 
+
+Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo won't make you a Developer.
+Fork the repo and edit as per your needs.
 
 ## Disclaimer
 [![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-Licensed under [GNU AGPL 2.0.](https://github.com/ritheshrkrm/PiroAutoFilterBot/blob/master/LICENSE)
+Licensed under [GNU AGPL 2.0.](https://github.com/GouthamSER/Filter-Bot/blob/master/LICENSE)
+Selling The Codes To Other People For Money Is *Strictly Prohibited*.
+
+
+## Disclaimer
+[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
+Licensed under [GNU AGPL 2.0.](https://github.com/GouthamSER/Filter-Bot/blob/master/LICENSE)
 Selling The Codes To Other People For Money Is *Strictly Prohibited*.
